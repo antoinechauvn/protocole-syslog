@@ -12,7 +12,7 @@ Linux et Unix. Syslog est également pris en charge sur Microsoft Windows via de
 ![image](https://user-images.githubusercontent.com/83721477/168556535-37392dcc-eaed-462c-8ce6-d03338d2d3a8.png)
 
 
-L’usage de Syslog:
+### Usage
 * Sécurité/autorisations/audit<br>Syslog peut être configuré pour transférer tous les événements d’authentification à un serveur syslog, sans qu’il soit nécessaire d’installer et de paramétrer un agent de supervision en tant que tel.<br>Syslog permet par ailleurs de s’assurer que les événements critiques sont enregistrés et stockés hors du serveur d’origine. Le premier réflexe d’un attaquant qui vient d’infiltrer un système est de couvrir les traces qu’il a laissées dans le journal. Heureusement, les événements transmis via syslog lui seront inaccessibles.
 
 * Surveillance des applications
