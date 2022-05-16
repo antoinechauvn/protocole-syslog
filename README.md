@@ -3,7 +3,10 @@ Découverte du protocole SysLog
 
 ### Qu'est-ce que le protocole Syslog?
 ```
-Le protocole Syslog est utilisé depuis plusieurs dizaines d’années comme moyen de transport des messages entre des périphériques réseau et un serveur de journalisation, généralement appelé serveur Syslog. En raison de sa longévité et de sa popularité, le protocole Syslog est pris en charge sur la plupart des systèmes d’exploitation, dont macOS, Linux et Unix. Syslog est également pris en charge sur Microsoft Windows via des outils tiers.
+Le protocole Syslog est utilisé depuis plusieurs dizaines d’années comme moyen de transport des messages entre des
+périphériques réseau et un serveur de journalisation, généralement appelé serveur Syslog. En raison de sa longévité
+et de sa popularité, le protocole Syslog est pris en charge sur la plupart des systèmes d’exploitation, dont macOS,
+Linux et Unix. Syslog est également pris en charge sur Microsoft Windows via des outils tiers.
 ```
 
 ![image](https://user-images.githubusercontent.com/83721477/168556535-37392dcc-eaed-462c-8ce6-d03338d2d3a8.png)
