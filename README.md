@@ -25,6 +25,6 @@ Un message Syslog contient les éléments suivants :
 * Données structurées
 * Message
 
-Les messages de journal doivent être encodés en UTF-8 ; hormis cette exigence, les messages peuvent être configurés selon les besoins de chacun. La flexibilité du contenu du message est l’une des raisons qui font que Syslog est si populaire et efficace.<br>
+Les messages de journal doivent être encodés en UTF-8. Hormis cette exigence, les messages peuvent être configurés selon les besoins de chacun. La flexibilité du contenu du message est l’une des raisons qui font que Syslog est si populaire et efficace.<br>
 
 Les niveaux de sécurité des messages Syslog vont de 0, qui signale une urgence, à 5, qui est un avertissement. Il existe des options facultatives pour les messages d’information (niveau 6) et de débogage (niveau 7).
